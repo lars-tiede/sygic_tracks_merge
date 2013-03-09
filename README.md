@@ -16,7 +16,7 @@ This is how you can make one GPX file out of a whole day's worth of Sygic travel
 
     $ sygic_tracks_merge.py -o 20130309.gpx path/to/log/files/20130309*.log
 
-If you happen to have been in another time zone than UTC, you want to specify the time zone offset relative to UTC. For example EST, because Sygic logs in local time only:
+If you happen to have been in another time zone than UTC, you want to specify the time zone offset relative to UTC, because Sygic logs in local time only. For example EST:
 
     $ sygic_tracks_merge.py -o 20130309.gpx -t -5 path/to/log/files/20130309*.log
 
