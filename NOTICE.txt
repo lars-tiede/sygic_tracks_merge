@@ -1,0 +1,13 @@
+sygic_tracks_merge
+
+Copyright 2013 Lars Tiede (lars.tiede@gmail.com)
+
+This product includes software developed by
+Lars Tiede (lars.tiede@gmail.com)
+
+
+===============================================================================
+
+The gpxpy library is written by Tomo Krajina (http://www.puzz.info)
+and is licensed under the Apache 2.0 license.
+See gpxpy/NOTICE.txt for further details
