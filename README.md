@@ -26,6 +26,11 @@ To get documentation on all available command line options, just call
 
 There are options to apply time zone correction, and to set a name and description for the track in the GPX file.
 
+Details on Sygic's binary log file format
+-----------------------------------------
+
+[This blog post](http://fleckenzwerg2000.blogspot.no/2013/03/merging-sygic-travel-book-log-files-and.html) goes into detail about what I have found out about Sygic's proprietary, binary, and closed travel book log file format.
+
 License
 -------
 
